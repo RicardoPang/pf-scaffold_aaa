@@ -1,6 +1,6 @@
 {
   "name": "@pf-scaffold/aaa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "通用vue3组件",
   "private": false,
   "scripts": {
