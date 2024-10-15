@@ -2,6 +2,7 @@
   "name": "@pf-scaffold/aaa",
   "version": "1.0.0",
   "description": "通用vue3组件",
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "npm run clean && npm run build:esm && npm run build:umd",
